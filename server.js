@@ -4,7 +4,7 @@ const port = 3000;
 
 app.use(express.json());
 
-let usuarios = [];
+let usuarios = [1];
 let id = 1;
 
 // sessão para criar usuário
