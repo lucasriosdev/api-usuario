@@ -151,6 +151,14 @@ Antes de iniciar, certifique-se de ter o [Node.js](https://nodejs.org/) instalad
 
 ---
 
+## 📷 Adicionando Imagens
+
+Para adicionar uma imagem ao README, use a seguinte sintaxe:
+
+```md
+![Captura de tela](caminho/para/imagem.png)
+```
+
 ## 🛠 Melhorias Futuras
 
 - Implementar banco de dados para persistência dos usuários.
